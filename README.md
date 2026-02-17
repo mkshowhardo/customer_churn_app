@@ -1,25 +1,35 @@
 # Customer Churn Prediction App
 
-## Overview
-The **Customer Churn Prediction App** is a machine learning project that predicts whether a customer is likely to leave (churn) a service or not. It uses historical customer data and key features to provide insights and predictions for better business decisions.
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
-This app is built in Python and includes data preprocessing, model training, and a simple interactive interface for predictions.
-
----
-
-## Features
-- Predict customer churn using machine learning models
-- Handle missing values and categorical variables
-- Feature engineering for improved accuracy
-- User-friendly interface for predictions
-- Supports easy deployment with Streamlit
+A **Streamlit web application** to predict customer churn using machine learning. This app allows businesses to identify which customers are likely to leave and take proactive steps to retain them.
 
 ---
 
-## Installation
+## 🚀 Live App
 
-1. Clone the repository:
+You can try the live app here: [Customer Churn App](https://vvujhvd6cdnktwolhvw5lh.streamlit.app/)
 
-```bash
-git clone https://github.com/mkshowhardo/customer_churn_app.git
-cd customer_churn_app
+---
+
+## 🛠 Features
+
+- Predict customer churn based on input features.
+- Simple and interactive UI using **Streamlit**.
+- Easy to use for business users with no coding knowledge.
+- Fast predictions powered by a machine learning model.
+
+---
+
+## 🧰 Technologies Used
+
+- **Python 3.x**
+- **Streamlit** – for building the web app.
+- **scikit-learn** – for machine learning.
+- **pandas & numpy** – for data processing.
+- **matplotlib / seaborn** – for data visualization (if used).
+
+---
+
+## 📁 Project Structure
+

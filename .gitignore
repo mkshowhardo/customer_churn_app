@@ -1,20 +1,9 @@
-# Python
+
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.env
-*.venv
-.env/
+.env
 venv/
-.envrc
-
-# Jupyter
+.venv/
 .ipynb_checkpoints/
-
-# System
+*.pyc
 .DS_Store
-Thumbs.db
-
-# Models
-*.pkl
+.streamlit/
